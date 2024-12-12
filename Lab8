@@ -29,15 +29,15 @@
         <h2>Image Gallery</h2>
         <div class="image-container">
             <img src="IMG_0576.jpg" alt="Description of first image" class="gallery-image">
-            <p class="caption">Water </p>
+            <p class="caption">July 29th 2023, Backyard</p>
         </div>
         <div class="image-container">
             <img src="IMG_0766.jpg" alt="Description of second image" class="gallery-image">
-            <p class="caption">Mountain</p>
+            <p class="caption">September 1st 2024, Ripleys Aquarium</p>
         </div>
         <div class="image-container">
             <img src="74707133134__965C753E-1674-4B39-8F4B-145ABDBDFB8F.jpg" alt="Description of third image" class="gallery-image">
-            <p class="caption">Grass</p>
+            <p class="caption"> October 5th 2024, Dudas Station</p>
         </div>
         <button id="show-alt-text-btn">Show Alt Text</button>
         <p id="alt-text-display"></p>
